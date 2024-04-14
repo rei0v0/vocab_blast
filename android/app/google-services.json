@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "573176426541",
+    "project_id": "vocab-blast",
+    "storage_bucket": "vocab-blast.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573176426541:android:708859aa6e6625f51fc8a4",
+        "android_client_info": {
+          "package_name": "com.example.vocab_blast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573176426541-e1d0k46qnvcorivtqf641sp811518boc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKw502JMxLVZMAWngAeG0EcgUCEqA8R-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573176426541-e1d0k46qnvcorivtqf641sp811518boc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "573176426541-21fq986r0epqdvg7u3410snils74r4g5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zerostage.vocabBlast"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
