@@ -1,3 +1,4 @@
+![vocab_blast_icon](https://github.com/rei0v0/vocab_blast/assets/130533596/68be247a-0d85-452b-8df0-a2e33565f879)
 # ボキャブラスト
 
 App Storeにリリースされています。
